@@ -1,2 +1,4 @@
 # finance
-<h1 align="center">Tahap Devlop</h1>
+<h1 align="center">Tahap Pengembangan oleh 
+tim Kami
+</h1>
